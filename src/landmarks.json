@@ -1,0 +1,478 @@
+{
+  "landmarks": [
+    {
+      "swedish": "Stockholm",
+      "english": "Stockholm",
+      "latitude": 59.3293,
+      "longitude": 18.0686
+    },
+    {
+      "swedish": "Göteborg",
+      "english": "Gothenburg",
+      "latitude": 57.7089,
+      "longitude": 11.9746
+    },
+    {
+      "swedish": "Malmö",
+      "english": "Malmo",
+      "latitude": 55.6044,
+      "longitude": 13.0038
+    },
+    {
+      "swedish": "Uppsala",
+      "english": "Uppsala",
+      "latitude": 59.8586,
+      "longitude": 17.6389
+    },
+    {
+      "swedish": "Linköping",
+      "english": "Linkoping",
+      "latitude": 58.4108,
+      "longitude": 15.6213
+    },
+    {
+      "swedish": "Västerås",
+      "english": "Vasteras",
+      "latitude": 59.6093,
+      "longitude": 16.5442
+    },
+    {
+      "swedish": "Örebro",
+      "english": "Orebro",
+      "latitude": 59.2753,
+      "longitude": 15.2134
+    },
+    {
+      "swedish": "Helsingborg",
+      "english": "Helsingborg",
+      "latitude": 56.0465,
+      "longitude": 12.6944
+    },
+    {
+      "swedish": "Jönköping",
+      "english": "Jonkoping",
+      "latitude": 57.7826,
+      "longitude": 14.1616
+    },
+    {
+      "swedish": "Norrköping",
+      "english": "Norrkoping",
+      "latitude": 58.5877,
+      "longitude": 16.1924
+    },
+    {
+      "swedish": "Lund",
+      "english": "Lund",
+      "latitude": 55.7047,
+      "longitude": 13.191
+    },
+    {
+      "swedish": "Umeå",
+      "english": "Umea",
+      "latitude": 63.8258,
+      "longitude": 20.263
+    },
+    {
+      "swedish": "Gävle",
+      "english": "Gavle",
+      "latitude": 60.6745,
+      "longitude": 17.141
+    },
+    {
+      "swedish": "Borås",
+      "english": "Boras",
+      "latitude": 57.721,
+      "longitude": 12.9392
+    },
+    {
+      "swedish": "Södertälje",
+      "english": "Sodertalje",
+      "latitude": 59.1954,
+      "longitude": 17.6259
+    },
+    {
+      "swedish": "Eskilstuna",
+      "english": "Eskilstuna",
+      "latitude": 59.3666,
+      "longitude": 16.5079
+    },
+    {
+      "swedish": "Halmstad",
+      "english": "Halmstad",
+      "latitude": 56.6745,
+      "longitude": 12.8575
+    },
+    {
+      "swedish": "Växjö",
+      "english": "Vaxjo",
+      "latitude": 56.8777,
+      "longitude": 14.8094
+    },
+    {
+      "swedish": "Karlstad",
+      "english": "Karlstad",
+      "latitude": 59.3985,
+      "longitude": 13.5965
+    },
+    {
+      "swedish": "Sundsvall",
+      "english": "Sundsvall",
+      "latitude": 62.3895,
+      "longitude": 17.3069
+    },
+    {
+      "swedish": "Täby",
+      "english": "Taby",
+      "latitude": 59.4428,
+      "longitude": 18.07
+    },
+    {
+      "swedish": "Östersund",
+      "english": "Ostersund",
+      "latitude": 63.1796,
+      "longitude": 14.635
+    },
+    {
+      "swedish": "Nyköping",
+      "english": "Nykoping",
+      "latitude": 58.753,
+      "longitude": 17.0074
+    },
+    {
+      "swedish": "Borlänge",
+      "english": "Borlange",
+      "latitude": 60.4841,
+      "longitude": 15.4314
+    },
+    {
+      "swedish": "Vänersborg",
+      "english": "Vanersborg",
+      "latitude": 58.3708,
+      "longitude": 12.3231
+    },
+    {
+      "swedish": "Luleå",
+      "english": "Lulea",
+      "latitude": 65.5848,
+      "longitude": 22.1567
+    },
+    {
+      "swedish": "Kalmar",
+      "english": "Kalmar",
+      "latitude": 56.663,
+      "longitude": 16.3564
+    },
+    {
+      "swedish": "Kristianstad",
+      "english": "Kristianstad",
+      "latitude": 56.0313,
+      "longitude": 14.1525
+    },
+    {
+      "swedish": "Skövde",
+      "english": "Skovde",
+      "latitude": 58.3926,
+      "longitude": 13.8474
+    },
+    {
+      "swedish": "Karlskrona",
+      "english": "Karlskrona",
+      "latitude": 56.1614,
+      "longitude": 15.5866
+    },
+    {
+      "swedish": "Helsingör",
+      "english": "Helsingor",
+      "latitude": 56.0376,
+      "longitude": 12.6138
+    },
+    {
+      "swedish": "Hudiksvall",
+      "english": "Hudiksvall",
+      "latitude": 61.7291,
+      "longitude": 17.1095
+    },
+    {
+      "swedish": "Visby",
+      "english": "Visby",
+      "latitude": 57.6361,
+      "longitude": 18.2939
+    },
+    {
+      "swedish": "Trollhättan",
+      "english": "Trollhattan",
+      "latitude": 58.2843,
+      "longitude": 12.2873
+    },
+    {
+      "swedish": "Västervik",
+      "english": "Vastervik",
+      "latitude": 57.7574,
+      "longitude": 16.6376
+    },
+    {
+      "swedish": "Arboga",
+      "english": "Arboga",
+      "latitude": 59.3938,
+      "longitude": 15.8402
+    },
+    {
+      "swedish": "Mariefred",
+      "english": "Mariefred",
+      "latitude": 59.2614,
+      "longitude": 17.2163
+    },
+    {
+      "swedish": "Vimmerby",
+      "english": "Vimmerby",
+      "latitude": 57.6669,
+      "longitude": 15.8591
+    },
+    {
+      "swedish": "Alingsås",
+      "english": "Alingsas",
+      "latitude": 57.93,
+      "longitude": 12.5315
+    },
+    {
+      "swedish": "Mora",
+      "english": "Mora",
+      "latitude": 61.0046,
+      "longitude": 14.537
+    },
+    {
+      "swedish": "Eksjö",
+      "english": "Eksjo",
+      "latitude": 57.6557,
+      "longitude": 14.9686
+    },
+    {
+      "swedish": "Ludvika",
+      "english": "Ludvika",
+      "latitude": 60.1499,
+      "longitude": 15.1875
+    },
+    {
+      "swedish": "Västervåla",
+      "english": "Vastervala",
+      "latitude": 59.852,
+      "longitude": 16.4427
+    },
+    {
+      "swedish": "Sala",
+      "english": "Sala",
+      "latitude": 59.9207,
+      "longitude": 16.6099
+    },
+    {
+      "swedish": "Höganäs",
+      "english": "Hoganas",
+      "latitude": 56.2006,
+      "longitude": 12.5589
+    },
+    {
+      "swedish": "Nässjö",
+      "english": "Nassjo",
+      "latitude": 57.6532,
+      "longitude": 14.6967
+    },
+    {
+      "swedish": "Lidingö",
+      "english": "Lidingo",
+      "latitude": 59.3666,
+      "longitude": 18.1355
+    },
+    {
+      "swedish": "Nykvarn",
+      "english": "Nykvarn",
+      "latitude": 59.1725,
+      "longitude": 17.5332
+    },
+    {
+      "swedish": "Oskarshamn",
+      "english": "Oskarshamn",
+      "latitude": 57.2655,
+      "longitude": 16.4474
+    },
+    {
+      "swedish": "Trelleborg",
+      "english": "Trelleborg",
+      "latitude": 55.3755,
+      "longitude": 13.1596
+    },
+    {
+      "swedish": "Åmål",
+      "english": "Amal",
+      "latitude": 59.05,
+      "longitude": 12.7148
+    },
+    {
+      "swedish": "Haparanda",
+      "english": "Haparanda",
+      "latitude": 65.8401,
+      "longitude": 24.1285
+    },
+    {
+      "swedish": "Ljungby",
+      "english": "Ljungby",
+      "latitude": 56.8333,
+      "longitude": 13.9376
+    },
+    {
+      "swedish": "Sigtuna",
+      "english": "Sigtuna",
+      "latitude": 59.6171,
+      "longitude": 17.7209
+    },
+    {
+      "swedish": "Motala",
+      "english": "Motala",
+      "latitude": 58.5412,
+      "longitude": 15.0374
+    },
+    {
+      "swedish": "Strängnäs",
+      "english": "Strangnas",
+      "latitude": 59.377,
+      "longitude": 17.0319
+    },
+    {
+      "swedish": "Eslöv",
+      "english": "Eslov",
+      "latitude": 55.8379,
+      "longitude": 13.3032
+    },
+    {
+      "swedish": "Sandviken",
+      "english": "Sandviken",
+      "latitude": 60.6216,
+      "longitude": 16.772
+    },
+    {
+      "swedish": "Värnamo",
+      "english": "Varnamo",
+      "latitude": 57.1834,
+      "longitude": 14.036
+    },
+    {
+      "swedish": "Varberg",
+      "english": "Varberg",
+      "latitude": 57.1071,
+      "longitude": 12.2528
+    },
+    {
+      "swedish": "Åkersberga",
+      "english": "Akersberga",
+      "latitude": 59.4778,
+      "longitude": 18.2987
+    },
+    {
+      "swedish": "Landskrona",
+      "english": "Landskrona",
+      "latitude": 55.8704,
+      "longitude": 12.8293
+    },
+    {
+      "swedish": "Tidaholm",
+      "english": "Tidaholm",
+      "latitude": 58.1274,
+      "longitude": 13.9488
+    },
+    {
+      "swedish": "Simrishamn",
+      "english": "Simrishamn",
+      "latitude": 55.5552,
+      "longitude": 14.3533
+    },
+    {
+      "swedish": "Tranås",
+      "english": "Tranas",
+      "latitude": 58.0413,
+      "longitude": 14.9716
+    },
+    {
+      "swedish": "Höör",
+      "english": "Hoor",
+      "latitude": 55.9293,
+      "longitude": 13.5436
+    },
+    {
+      "swedish": "Bollnäs",
+      "english": "Bollnas",
+      "latitude": 61.352,
+      "longitude": 16.3908
+    },
+    {
+      "swedish": "Kumla",
+      "english": "Kumla",
+      "latitude": 59.128,
+      "longitude": 15.1392
+    },
+    {
+      "swedish": "Kungsbacka",
+      "english": "Kungsbacka",
+      "latitude": 57.4828,
+      "longitude": 12.0774
+    },
+    {
+      "swedish": "Ystad",
+      "english": "Ystad",
+      "latitude": 55.4292,
+      "longitude": 13.8207
+    },
+    {
+      "swedish": "Mjölby",
+      "english": "Mjolby",
+      "latitude": 58.325,
+      "longitude": 15.1246
+    },
+    {
+      "swedish": "Oxelösund",
+      "english": "Oxelosund",
+      "latitude": 58.6757,
+      "longitude": 17.1095
+    },
+    {
+      "swedish": "Alvesta",
+      "english": "Alvesta",
+      "latitude": 56.8993,
+      "longitude": 14.5561
+    },
+    {
+      "swedish": "Skellefteå",
+      "english": "Skelleftea",
+      "latitude": 64.75,
+      "longitude": 20.95
+    },
+    {
+      "swedish": "Gislaved",
+      "english": "Gislaved",
+      "latitude": 57.2902,
+      "longitude": 13.5363
+    },
+    {
+      "swedish": "Falkenberg",
+      "english": "Falkenberg",
+      "latitude": 56.8989,
+      "longitude": 12.5018
+    },
+    {
+      "swedish": "Sälen",
+      "english": "Salen",
+      "latitude": 61.1025,
+      "longitude": 12.8964
+    },
+    {
+      "swedish": "Åre",
+      "english": "Are",
+      "latitude": 63.3991,
+      "longitude": 13.0808
+    },
+    {
+      "swedish": "Ullared",
+      "english": "Ullared",
+      "latitude": 57.1142,
+      "longitude": 12.3819
+    }
+  ]
+}

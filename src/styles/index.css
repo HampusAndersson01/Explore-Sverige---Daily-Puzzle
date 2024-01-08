@@ -1,0 +1,102 @@
+@import url("https://fonts.googleapis.com/css2?family=Noticia+Text&display=swap");
+
+* {
+  box-sizing: border-box;
+  font: "Noticia Text", serif;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: start;
+  height: 100vh;
+  width: 40vw;
+  margin: 0 auto;
+  padding-top: 20vh;
+}
+header {
+  position: absolute;
+  top: 0;
+
+  font-weight: 300;
+  text-align: center;
+}
+
+header h1 {
+  font-size: 2.5rem;
+  margin-bottom: 0;
+  text-transform: uppercase;
+  color: #fecc02;
+  text-shadow: 0 0 4px black;
+}
+header h2 {
+  font-size: 1.5rem;
+  margin-top: 0;
+  color: #006aa7;
+  text-shadow: 0 0 4px gray;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.select-container {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.basic-single {
+  width: 80%;
+  height: 100%;
+  box-sizing: border-box;
+}
+
+.submit-guess-button {
+  width: 20%;
+  height: 100%;
+  background-color: #006aa7;
+  color: white;
+}
+
+.select__value-container {
+  text-align: left;
+}
+
+.feedback-container {
+  margin-top: 20px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.feedback-table {
+  margin: 0 auto;
+}
+
+.feedback-table {
+  width: 100%;
+}
+
+.feedback-table,
+td {
+  border: 1px solid #ddd;
+}
+/* set width for td index */
+.feedback-table td:first-child {
+  width: 60%;
+  text-align: left;
+}
+
+.feedback-table .empty {
+  border: none;
+}
+
+td {
+  padding: 8px;
+  text-align: center;
+}
