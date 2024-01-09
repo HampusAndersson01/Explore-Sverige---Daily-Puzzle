@@ -20,7 +20,7 @@ def remove_duplicates(json_file):
         json.dump(data, file, indent=4, ensure_ascii=False)
 
 # Usage example
-json_file_path = 'landmarks.json'
+json_file_path = 'src/landmarks.json'
 remove_duplicates(json_file_path)
 
 

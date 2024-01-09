@@ -177,7 +177,6 @@ const Game: React.FC = () => {
     setGuess(selectedLandmark[language]);
     setSelectedLandmark(selectedLandmark);
     setSearchResults([]);
-    setIsFullMatch(true);
   };
 
   let selectOptions = landmarks.landmarks.map((landmark) => {
@@ -242,7 +241,7 @@ const Game: React.FC = () => {
         <button
           className="submit-guess-button"
           onClick={handleGuess}
-          disabled={!selectedLandmark || !isFullMatch || guessCorrect}
+          disabled={!selectedLandmark || guessCorrect}
         >
           {language === Language.English ? "Guess" : "Gissa"}
         </button>

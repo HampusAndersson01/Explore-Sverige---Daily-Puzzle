@@ -4,6 +4,12 @@
   box-sizing: border-box;
   font: "Noticia Text", serif;
 }
+body {
+  background-color: #f2f2f2;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
 
 .container {
   display: flex;
@@ -62,6 +68,17 @@ header h2 {
   height: 100%;
   background-color: #006aa7;
   color: white;
+  /* non selectable text */
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+.submit-guess-button:hover {
+  background-color: #fecc02;
+  color: black;
 }
 
 .select__value-container {
@@ -72,6 +89,8 @@ header h2 {
   margin-top: 20px;
   width: 100%;
   box-sizing: border-box;
+  max-height: 60vh;
+  overflow-y: auto;
 }
 
 .feedback-table {
@@ -99,4 +118,11 @@ td {
 td {
   padding: 8px;
   text-align: center;
+}
+
+/* If width is less 1000px */
+@media screen and (max-width: 1000px) {
+  .container {
+    width: 80vw;
+  }
 }

@@ -473,6 +473,132 @@
       "english": "Ullared",
       "latitude": 57.1142,
       "longitude": 12.3819
+    },
+    {
+      "swedish": "Upplands Väsby och Sollentuna",
+      "english": "Upplands Väsby and Sollentuna",
+      "latitude": 59.5166,
+      "longitude": 17.9129
+    },
+    {
+      "swedish": "Tumba",
+      "english": "Tumba",
+      "latitude": 59.1955,
+      "longitude": 17.8381
+    },
+    {
+      "swedish": "Falun",
+      "english": "Falun",
+      "latitude": 60.6036,
+      "longitude": 15.6254
+    },
+    {
+      "swedish": "Uddevalla",
+      "english": "Uddevalla",
+      "latitude": 58.3511,
+      "longitude": 11.9388
+    },
+    {
+      "swedish": "Örnsköldsvik",
+      "english": "Ornskoldsvik",
+      "latitude": 63.2909,
+      "longitude": 18.7159
+    },
+    {
+      "swedish": "Vallentuna",
+      "english": "Vallentuna",
+      "latitude": 59.5372,
+      "longitude": 18.0778
+    },
+    {
+      "swedish": "Märsta",
+      "english": "Marsta",
+      "latitude": 59.6179,
+      "longitude": 17.8801
+    },
+    {
+      "swedish": "Ängelholm",
+      "english": "Angelholm",
+      "latitude": 56.2428,
+      "longitude": 12.8624
+    },
+    {
+      "swedish": "Lerum",
+      "english": "Lerum",
+      "latitude": 57.7565,
+      "longitude": 12.2615
+    },
+    {
+      "swedish": "Karlskoga",
+      "english": "Karlskoga",
+      "latitude": 59.3269,
+      "longitude": 14.5224
+    },
+    {
+      "swedish": "Enköping",
+      "english": "Enkoping",
+      "latitude": 59.6352,
+      "longitude": 17.0784
+    },
+    {
+      "swedish": "Katrineholm",
+      "english": "Katrineholm",
+      "latitude": 58.9965,
+      "longitude": 16.2073
+    },
+    {
+      "swedish": "Gustavsberg",
+      "english": "Gustavsberg",
+      "latitude": 59.3168,
+      "longitude": 18.3877
+    },
+    {
+      "swedish": "Lidköping",
+      "english": "Lidkoping",
+      "latitude": 58.5071,
+      "longitude": 13.1575
+    },
+    {
+      "swedish": "Piteå",
+      "english": "Pitea",
+      "latitude": 65.3173,
+      "longitude": 21.4797
+    },
+    {
+      "swedish": "Torslanda",
+      "english": "Torslanda",
+      "latitude": 57.7176,
+      "longitude": 11.8966
+    },
+    {
+      "swedish": "Norrtälje",
+      "english": "Norrtaelje",
+      "latitude": 59.7581,
+      "longitude": 18.4624
+    },
+    {
+      "swedish": "Karlshamn",
+      "english": "Karlshamn",
+      "latitude": 56.1709,
+      "longitude": 14.8609
+    },
+    {
+      "swedish": "Kungälv",
+      "english": "Kungalv",
+      "latitude": 57.8688,
+      "longitude": 11.9744
+    },
+    {
+      "swedish": "Hässleholm",
+      "english": "Hassleholm",
+      "latitude": 56.1581,
+      "longitude": 13.7685
+    },
+    {
+      "swedish": "Västerhaninge",
+      "english": "Vasterhaninge",
+      "latitude": 59.1144,
+      "longitude": 18.1367
     }
   ]
 }
