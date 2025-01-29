@@ -31,10 +31,6 @@ Players are presented with a daily challenge to guess the name of a specific Swe
 5. **Community Engagement:**
    - Players can share their daily results or interesting city/town with a share button, fostering community engagement within social circles.
 
-## Monetization
-
-- The game is offered as a free version supported by occasional ads.
-- Monetization through ads helps support the development and maintenance of the game.
 
 ## Game Name
 
